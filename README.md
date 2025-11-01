@@ -32,6 +32,7 @@ Axiom-CP（Axiom-Creator Protection）是一份专为保护原创者权利而设
 
 ```
 本作品采用 Axiom-CP 原创作品许可协议进行保护
+协议详情：https://starsailstudio.github.io/Axiom-CP/Axiom-CP.html
 ```
 
 对于使用者
